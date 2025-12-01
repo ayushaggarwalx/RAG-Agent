@@ -1,0 +1,33 @@
+# FastAPI and server
+fastapi[standard]
+python-multipart
+
+# LangChain
+langchain
+langchain-google-genai
+langchain-community
+
+# Vector store
+faiss-cpu
+
+# Document loaders
+pymupdf
+beautifulsoup4
+lxml
+
+# Google AI
+google-generativeai
+google-ai-generativelanguage
+google-genai
+
+# Image processing
+Pillow
+
+# Environment and utilities
+python-dotenv
+
+# Streamlit
+streamlit
+
+# HTTP requests
+requests

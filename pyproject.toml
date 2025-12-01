@@ -1,0 +1,24 @@
+[project]
+name = "rag-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "faiss-cpu>=1.13.0",
+    "fastapi[standard]>=0.122.0",
+    "google-ai-generativelanguage>=0.6.15",
+    "google-genai>=1.52.0",
+    "google-generativeai>=0.8.5",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.31",
+    "langchain-google-genai>=2.0.10",
+    "lxml>=6.0.2",
+    "pillow>=12.0.0",
+    "pymupdf>=1.26.6",
+    "python-dotenv>=1.2.1",
+    "python-multipart>=0.0.20",
+    "requests>=2.32.5",
+    "streamlit>=1.51.0",
+]
