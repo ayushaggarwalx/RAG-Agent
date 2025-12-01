@@ -1,8 +1,7 @@
 # 🤖 RAG Agent
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/YOUR_USERNAME/rag-agent)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ayushaggarwal-rag-agent.hf.space/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![LangChain](https://img.shields.io/badge/LangChain-🦜-green)](https://github.com/langchain-ai/langchain)
 
 An intelligent document Q&A assistant powered by LangChain and Google Gemini. Upload PDFs, images, or URLs to chat with your content. Automatically searches the web when answers aren't found in your documents.
@@ -19,20 +18,14 @@ An intelligent document Q&A assistant powered by LangChain and Google Gemini. Up
 
 ## 🚀 Try It Now
 
-**Live Demo:** [Try RAG Agent on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/rag-agent)
+**Live Demo:** [Try RAG Agent on Hugging Face Spaces](https://ayushaggarwal-rag-agent.hf.space/)
 
 No installation required! Just click the link above to start using RAG Agent immediately.
 
 ## 📸 Screenshots
 
-### Upload and Process Documents
-![Upload Interface](screenshots/upload.png)
+![Upload Interface](UI.png)
 
-### Chat with Your Documents
-![Chat Interface](screenshots/chat.png)
-
-### Add Multiple Contexts
-![Context Addition](screenshots/context.png)
 
 ## 🏗️ Architecture
 
@@ -77,7 +70,7 @@ No installation required! Just click the link above to start using RAG Agent imm
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-agent.git
+git clone https://github.com/ayushaggarwalx/rag-agent.git
 cd rag-agent
 ```
 
@@ -100,7 +93,6 @@ Create a `.env` file in the project root:
 
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
-API_BASE_URL=http://localhost:8000
 ```
 
 ## 🚀 Usage
@@ -232,10 +224,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Implement document comparison feature
 - [ ] Add export chat history functionality
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [LangChain](https://github.com/langchain-ai/langchain) for the amazing framework
@@ -246,16 +234,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💬 Support
 
 If you have any questions or issues, please:
-- Open an issue on [GitHub Issues](https://github.com/YOUR_USERNAME/rag-agent/issues)
-- Reach out on [Twitter/X](https://twitter.com/YOUR_HANDLE)
-- Email: your.email@example.com
+- Open an issue on [GitHub Issues](https://github.com/ayushaggarwalx/rag-agent/issues)
+- Reach out on [Twitter/X](https://x.com/_AyushAggarwal)
+- Email: ayushaggarwalx@gmail.com
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/rag-agent&type=Date)](https://star-history.com/#YOUR_USERNAME/rag-agent&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ayushaggarwalx/rag-agent&type=Date)](https://star-history.com/#AyushAggarwalx/rag-agent&Date)
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/YOUR_USERNAME)**
+**Made with ❤️ by [Ayush Aggarwal](https://github.com/ayushaggarwalx)**
 
 If you find this project useful, please consider giving it a ⭐!
